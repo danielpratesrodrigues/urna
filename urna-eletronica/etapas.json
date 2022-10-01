@@ -1,0 +1,70 @@
+{
+    "0": {
+        "titulo": "DEPUTADO FEDERAL",
+        "numeros": 4,
+        "candidatos": {
+            "1334": {
+                "nome": "Elisângela",
+                "partido": "PT",
+                "foto": "elisangela.jpg"
+            }
+        }
+            
+    },
+    "1": {
+        "titulo": "DEPUTADO ESTADUAL",
+        "numeros": 5,
+        "candidatos": {
+            "13333": {
+                "nome": "Rosival",
+                "partido": "PT",
+                "foto": "rosival.jpg"
+            }
+        }
+            
+    },
+    "2": {
+        "titulo": "SENADOR",
+        "numeros": 3,
+        "candidatos": {
+            "555": {
+                "nome": "Otto Alencar",
+                "partido": "psd",
+                "foto": "otto.jpg"
+            }
+        }
+            
+    },
+    "3": {
+        "titulo": "GOVERNADOR",
+        "numeros": 2,
+        "candidatos": {
+            "13": {
+                "nome": "Jerônimo",
+                "partido": "PT",
+                "foto": "jeronimo.jpg",
+                "vice": {
+                    "nome": "Geraldo Junior",
+                    "partido": "MDB",
+                    "foto": "vicejeronimo.jpg"
+                }
+            }
+        }
+    },
+    "4": {
+        "titulo": "PRESIDENTE",
+        "numeros": 2,
+        "candidatos": {
+            "13": {
+                "nome": "Lula",
+                "partido": "PT",
+                "foto": "lula.jpg",
+                "vice": {
+                    "nome": "Geraldo Alckmin",
+                    "partido": "PSB",
+                    "foto": "vicelula.jpg"
+                }
+            }
+        }  
+    }
+}
